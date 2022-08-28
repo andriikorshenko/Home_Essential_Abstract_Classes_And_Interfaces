@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Home 004\Task_011\bin\Debug\net6.0\Task_011.exe
+C:\Users\Admin\Desktop\Home 004\Task_011\bin\Debug\net6.0\Task_011.deps.json
+C:\Users\Admin\Desktop\Home 004\Task_011\bin\Debug\net6.0\Task_011.runtimeconfig.json
+C:\Users\Admin\Desktop\Home 004\Task_011\bin\Debug\net6.0\Task_011.dll
+C:\Users\Admin\Desktop\Home 004\Task_011\bin\Debug\net6.0\Task_011.pdb
+C:\Users\Admin\Desktop\Home 004\Task_011\obj\Debug\net6.0\Task_011.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Home 004\Task_011\obj\Debug\net6.0\Task_011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Home 004\Task_011\obj\Debug\net6.0\Task_011.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Home 004\Task_011\obj\Debug\net6.0\Task_011.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Home 004\Task_011\obj\Debug\net6.0\Task_011.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Home 004\Task_011\obj\Debug\net6.0\Task_011.dll
+C:\Users\Admin\Desktop\Home 004\Task_011\obj\Debug\net6.0\refint\Task_011.dll
+C:\Users\Admin\Desktop\Home 004\Task_011\obj\Debug\net6.0\Task_011.pdb
+C:\Users\Admin\Desktop\Home 004\Task_011\obj\Debug\net6.0\Task_011.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Home 004\Task_011\obj\Debug\net6.0\ref\Task_011.dll
